@@ -14,6 +14,9 @@
 
 # Concepts Used:
 ● Python language
+
 ● OOP concepts like Class 
+
 ● Loops
+
 ● Functions
